@@ -362,9 +362,9 @@
   {
     "guid": "B11",
     "name": "B11",
-    "status": "reserved",
-    "price": 3750000,
-    "monthlyFee": 5829,
+    "status": "sold",
+    "price": 0,
+    "monthlyFee": 0,
     "currency": "SEK",
     "rooms": 4,
     "livingArea": 111,
@@ -373,7 +373,7 @@
     "projectId": "brf-sjoviken-2",
     "unitType": "Residential",
     "ownershipType": "Condominium",
-    "modifiedDate": "2021-04-09T06:53:16.623Z",
+    "modifiedDate": "2021-04-23T05:42:21.252Z",
     "floor": 1,
     "id": "605478f7cc8073c7dbc801de"
   },
@@ -1010,9 +1010,9 @@
   {
     "guid": "C51",
     "name": "C51",
-    "status": "reserved",
-    "price": 4250000,
-    "monthlyFee": 5829,
+    "status": "sold",
+    "price": 0,
+    "monthlyFee": 0,
     "currency": "SEK",
     "rooms": 4,
     "livingArea": 111,
@@ -1021,7 +1021,7 @@
     "projectId": "brf-sjoviken-2",
     "unitType": "Residential",
     "ownershipType": "Condominium",
-    "modifiedDate": "2021-04-16T13:46:53.024Z",
+    "modifiedDate": "2021-04-23T05:42:39.451Z",
     "floor": 5,
     "id": "605478f7cc8073c112c80202"
   },
