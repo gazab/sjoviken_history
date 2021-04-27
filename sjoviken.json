@@ -1280,9 +1280,9 @@
   {
     "guid": "D33",
     "name": "D33",
-    "status": "for_sale",
-    "price": 2900000,
-    "monthlyFee": 4340,
+    "status": "sold",
+    "price": 0,
+    "monthlyFee": 0,
     "currency": "SEK",
     "rooms": 3,
     "livingArea": 74,
@@ -1291,7 +1291,7 @@
     "projectId": "brf-sjoviken-2",
     "unitType": "Residential",
     "ownershipType": "Condominium",
-    "modifiedDate": "2021-03-29T10:33:09.632Z",
+    "modifiedDate": "2021-04-27T09:29:12.473Z",
     "floor": 3,
     "id": "605478f7cc80731b3fc80211"
   },
