@@ -20,7 +20,7 @@
   {
     "guid": "A12",
     "name": "A12",
-    "status": "for_sale",
+    "status": "reserved",
     "price": 2050000,
     "monthlyFee": 3575,
     "currency": "SEK",
@@ -31,7 +31,7 @@
     "projectId": "brf-sjoviken-2",
     "unitType": "Residential",
     "ownershipType": "Condominium",
-    "modifiedDate": "2021-04-29T09:27:46.204Z",
+    "modifiedDate": "2021-05-04T05:53:36.289Z",
     "floor": 1,
     "id": "605478f7cc80730be2c801cb"
   },
@@ -434,7 +434,7 @@
   {
     "guid": "B21",
     "name": "B21",
-    "status": "reserved",
+    "status": "for_sale",
     "price": 3750000,
     "monthlyFee": 5829,
     "currency": "SEK",
@@ -445,7 +445,7 @@
     "projectId": "brf-sjoviken-2",
     "unitType": "Residential",
     "ownershipType": "Condominium",
-    "modifiedDate": "2021-04-29T09:27:46.205Z",
+    "modifiedDate": "2021-05-04T05:53:54.784Z",
     "floor": 2,
     "id": "605478f7cc80731881c801e2"
   },
@@ -1183,14 +1183,14 @@
     "projectId": "brf-sjoviken-2",
     "unitType": "Residential",
     "ownershipType": "Condominium",
-    "modifiedDate": "2021-03-29T10:33:09.633Z",
+    "modifiedDate": "2021-05-04T06:11:42.832Z",
     "floor": 2,
     "id": "605478f7cc8073c3ecc8020b"
   },
   {
     "guid": "D23",
     "name": "D23",
-    "status": "for_sale",
+    "status": "reserved",
     "price": 2800000,
     "monthlyFee": 4340,
     "currency": "SEK",
@@ -1201,7 +1201,7 @@
     "projectId": "brf-sjoviken-2",
     "unitType": "Residential",
     "ownershipType": "Condominium",
-    "modifiedDate": "2021-03-29T10:33:09.632Z",
+    "modifiedDate": "2021-05-04T05:54:28.022Z",
     "floor": 2,
     "id": "605478f7cc80730e6fc8020c"
   },
@@ -1352,7 +1352,7 @@
   {
     "guid": "D42",
     "name": "D42",
-    "status": "reserved",
+    "status": "for_sale",
     "price": 3450000,
     "monthlyFee": 4984,
     "currency": "SEK",
@@ -1363,7 +1363,7 @@
     "projectId": "brf-sjoviken-2",
     "unitType": "Residential",
     "ownershipType": "Condominium",
-    "modifiedDate": "2021-04-27T09:35:25.091Z",
+    "modifiedDate": "2021-05-04T05:54:58.557Z",
     "floor": 4,
     "id": "605478f7cc80732530c80215"
   },
