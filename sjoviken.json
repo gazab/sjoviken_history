@@ -524,9 +524,9 @@
   {
     "guid": "B32",
     "name": "B32",
-    "status": "reserved",
-    "price": 3150000,
-    "monthlyFee": 4984,
+    "status": "sold",
+    "price": 0,
+    "monthlyFee": 0,
     "currency": "SEK",
     "rooms": 3,
     "livingArea": 90,
@@ -535,7 +535,7 @@
     "projectId": "brf-sjoviken-2",
     "unitType": "Residential",
     "ownershipType": "Condominium",
-    "modifiedDate": "2021-04-27T09:34:46.560Z",
+    "modifiedDate": "2021-05-05T12:52:00.281Z",
     "floor": 3,
     "id": "605478f7cc8073215dc801e7"
   },
