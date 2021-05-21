@@ -380,9 +380,9 @@
   {
     "guid": "B12",
     "name": "B12",
-    "status": "for_sale",
-    "price": 2050000,
-    "monthlyFee": 3575,
+    "status": "sold",
+    "price": 0,
+    "monthlyFee": 0,
     "currency": "SEK",
     "rooms": 2,
     "livingArea": 55,
@@ -391,7 +391,7 @@
     "projectId": "brf-sjoviken-2",
     "unitType": "Residential",
     "ownershipType": "Condominium",
-    "modifiedDate": "2021-03-29T10:33:09.633Z",
+    "modifiedDate": "2021-05-21T16:35:35.182Z",
     "floor": 1,
     "id": "605478f7cc807344c0c801df"
   },
