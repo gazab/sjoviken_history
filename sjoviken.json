@@ -704,9 +704,9 @@
   {
     "guid": "B54",
     "name": "B54",
-    "status": "reserved",
-    "price": 2400000,
-    "monthlyFee": 3575,
+    "status": "sold",
+    "price": 0,
+    "monthlyFee": 0,
     "currency": "SEK",
     "rooms": 2,
     "livingArea": 55,
@@ -715,7 +715,7 @@
     "projectId": "brf-sjoviken-2",
     "unitType": "Residential",
     "ownershipType": "Condominium",
-    "modifiedDate": "2021-05-18T11:52:57.466Z",
+    "modifiedDate": "2021-05-25T15:02:47.806Z",
     "floor": 5,
     "id": "605478f7cc8073f3b0c801f1"
   },
