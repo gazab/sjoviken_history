@@ -1082,7 +1082,7 @@
   {
     "guid": "D11",
     "name": "D11",
-    "status": "for_sale",
+    "status": "reserved",
     "price": 4350000,
     "monthlyFee": 5990,
     "currency": "SEK",
@@ -1093,7 +1093,7 @@
     "projectId": "brf-sjoviken-2",
     "unitType": "Residential",
     "ownershipType": "Condominium",
-    "modifiedDate": "2021-06-14T09:16:25.635Z",
+    "modifiedDate": "2021-06-22T10:53:27.414Z",
     "floor": 1,
     "id": "605478f7cc8073b567c80206"
   },
