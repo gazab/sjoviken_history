@@ -866,7 +866,7 @@
   {
     "guid": "C31",
     "name": "C31",
-    "status": "for_sale",
+    "status": "reserved",
     "price": 3850000,
     "monthlyFee": 5829,
     "currency": "SEK",
@@ -877,7 +877,7 @@
     "projectId": "brf-sjoviken-2",
     "unitType": "Residential",
     "ownershipType": "Condominium",
-    "modifiedDate": "2021-06-28T11:58:23.343Z",
+    "modifiedDate": "2021-08-20T06:39:30.234Z",
     "floor": 3,
     "id": "605478f7cc8073824dc801fa"
   },
