@@ -686,7 +686,7 @@
   {
     "guid": "B53",
     "name": "B53",
-    "status": "for_sale",
+    "status": "reserved",
     "price": 2400000,
     "monthlyFee": 3575,
     "currency": "SEK",
@@ -697,7 +697,7 @@
     "projectId": "brf-sjoviken-2",
     "unitType": "Residential",
     "ownershipType": "Condominium",
-    "modifiedDate": "2021-06-28T11:58:27.155Z",
+    "modifiedDate": "2021-08-25T17:45:40.162Z",
     "floor": 5,
     "id": "605478f7cc80739d9fc801f0"
   },
