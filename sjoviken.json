@@ -1352,7 +1352,7 @@
   {
     "guid": "D42",
     "name": "D42",
-    "status": "for_sale",
+    "status": "reserved",
     "price": 3450000,
     "monthlyFee": 4984,
     "currency": "SEK",
@@ -1363,7 +1363,7 @@
     "projectId": "brf-sjoviken-2",
     "unitType": "Residential",
     "ownershipType": "Sale",
-    "modifiedDate": "2021-06-28T11:58:27.456Z",
+    "modifiedDate": "2021-09-24T13:29:40.341Z",
     "floor": 4,
     "id": "605478f7cc80732530c80215"
   },
