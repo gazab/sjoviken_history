@@ -758,9 +758,9 @@
   {
     "guid": "C13",
     "name": "C13",
-    "status": "for_sale",
-    "price": 2050000,
-    "monthlyFee": 3575,
+    "status": "sold",
+    "price": 0,
+    "monthlyFee": 0,
     "currency": "SEK",
     "rooms": 2,
     "livingArea": 55,
@@ -769,7 +769,7 @@
     "projectId": "brf-sjoviken-2",
     "unitType": "Residential",
     "ownershipType": "Sale",
-    "modifiedDate": "2021-06-28T11:58:25.870Z",
+    "modifiedDate": "2021-11-04T17:11:58.349Z",
     "floor": 1,
     "id": "605478f7cc8073d604c801f4"
   },
