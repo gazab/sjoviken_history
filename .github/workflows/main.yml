@@ -12,7 +12,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        curl https://api.view.wec360.com/tosito-projektutveckling-ab/brf-sjoviken-2/units | jq . > sjoviken.json
+        curl https://view.wec360.com/api/tosito-projektutveckling-ab/brf-sjoviken-2/units | jq . > sjoviken.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
