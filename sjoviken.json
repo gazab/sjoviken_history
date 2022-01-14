@@ -1208,9 +1208,9 @@
   {
     "guid": "D24",
     "name": "D24",
-    "status": "reserved",
-    "price": 1250000,
-    "monthlyFee": 2608,
+    "status": "sold",
+    "price": 0,
+    "monthlyFee": 0,
     "currency": "SEK",
     "rooms": 1,
     "livingArea": 31,
@@ -1219,7 +1219,7 @@
     "projectId": "brf-sjoviken-2",
     "unitType": "Residential",
     "ownershipType": "Sale",
-    "modifiedDate": "2022-01-13T12:58:06.380Z",
+    "modifiedDate": "2022-01-14T15:20:42.930Z",
     "floor": 2,
     "id": "605478f7cc8073a0d5c8020d"
   },
