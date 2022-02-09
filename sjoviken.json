@@ -920,9 +920,9 @@
   {
     "guid": "C34",
     "name": "C34",
-    "status": "for_sale",
-    "price": 3700000,
-    "monthlyFee": 4984,
+    "status": "sold",
+    "price": 0,
+    "monthlyFee": 0,
     "currency": "SEK",
     "rooms": 4,
     "livingArea": 90,
@@ -931,7 +931,7 @@
     "projectId": "brf-sjoviken-2",
     "unitType": "Residential",
     "ownershipType": "Sale",
-    "modifiedDate": "2022-01-21T14:33:34.077Z",
+    "modifiedDate": "2022-02-09T13:44:05.978Z",
     "floor": 3,
     "id": "605478f7cc8073fd0cc801fd"
   },
