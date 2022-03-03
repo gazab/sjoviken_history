@@ -1064,7 +1064,7 @@
   {
     "guid": "C54",
     "name": "C54",
-    "status": "for_sale",
+    "status": "reserved",
     "price": 4100000,
     "monthlyFee": 4984,
     "currency": "SEK",
@@ -1075,7 +1075,7 @@
     "projectId": "brf-sjoviken-2",
     "unitType": "Residential",
     "ownershipType": "Sale",
-    "modifiedDate": "2022-02-15T14:01:22.149Z",
+    "modifiedDate": "2022-03-03T17:54:27.975Z",
     "floor": 5,
     "id": "605478f7cc80738035c80205"
   },
@@ -1352,7 +1352,7 @@
   {
     "guid": "D42",
     "name": "D42",
-    "status": "for_sale",
+    "status": "reserved",
     "price": 3450000,
     "monthlyFee": 4984,
     "currency": "SEK",
@@ -1363,7 +1363,7 @@
     "projectId": "brf-sjoviken-2",
     "unitType": "Residential",
     "ownershipType": "Sale",
-    "modifiedDate": "2022-02-15T14:01:22.149Z",
+    "modifiedDate": "2022-03-03T17:54:42.850Z",
     "floor": 4,
     "id": "605478f7cc80732530c80215"
   },
