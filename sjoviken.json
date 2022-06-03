@@ -776,7 +776,7 @@
   {
     "guid": "C14",
     "name": "C14",
-    "status": "for_sale",
+    "status": "reserved",
     "price": 3600000,
     "monthlyFee": 4984,
     "currency": "SEK",
@@ -787,7 +787,7 @@
     "projectId": "brf-sjoviken-2",
     "unitType": "Residential",
     "ownershipType": "Sale",
-    "modifiedDate": "2022-02-15T14:01:22.149Z",
+    "modifiedDate": "2022-06-03T06:20:11.958Z",
     "floor": 1,
     "id": "605478f7cc807318f2c801f5"
   },
