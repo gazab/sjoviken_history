@@ -1263,7 +1263,7 @@
     "guid": "D32",
     "name": "D32",
     "status": "for_sale",
-    "price": 3250000,
+    "price": 3315000,
     "monthlyFee": 4984,
     "currency": "SEK",
     "rooms": 3,
@@ -1273,7 +1273,7 @@
     "projectId": "brf-sjoviken-2",
     "unitType": "Residential",
     "ownershipType": "Sale",
-    "modifiedDate": "2022-02-15T14:01:22.149Z",
+    "modifiedDate": "2022-09-01T11:31:44.791Z",
     "floor": 3,
     "id": "605478f7cc80731324c80210"
   },
